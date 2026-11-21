@@ -118,4 +118,4 @@ Ideen für später: Deployment als Dauerdienst, Push-Hinweis „jetzt losfahren"
 
 ## Lizenz
 
-Noch offen.
+MIT, siehe [LICENSE](LICENSE).
